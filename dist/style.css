@@ -35,3 +35,11 @@ body {
     padding: 10% 5% 10% 5%;
     height: 10%;
 }
+
+p {
+    background-color: lightgray;
+    font-size: .75em;
+    padding: 5%;
+    box-shadow: 20px;
+    box-shadow: 2px 4px 2px #838383;
+}
