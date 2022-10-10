@@ -1,0 +1,37 @@
+body {
+    color: white;
+}
+
+.banner {
+    margin: -10px -15px 0 -15px;
+    background-color: #ff7068;
+    text-align: center;
+    height: 3em;
+    padding: 5% 0 0 0;
+}
+
+.cardItems {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card {
+    width: 20%;
+    background-color: lightgray;
+    margin: 30px;
+    border-radius: 4px;
+    box-shadow: 5px 10px 7px #818181;
+}
+.up {
+    background-color: blue;
+    padding: 5px 0 10px 20px;
+    text-align: left;
+}
+
+.low {
+    background-color: lightgray;
+    color: black;
+    padding: 10% 5% 10% 5%;
+    height: 10%;
+}
